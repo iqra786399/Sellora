@@ -46,3 +46,7 @@ This is an MVP with demo/mock data. Real version will connect to store APIs and 
 
 ## 🏆 Why Sellora?
 Replace 10+ subscriptions worth $500/month with 1 free tool.
+## Sellora E-Commerce App
+Note: Login system has been removed.
+This is now a direct-access app.
+Features: Browse products, Add to cart, Checkout
