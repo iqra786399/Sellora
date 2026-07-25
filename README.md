@@ -50,3 +50,31 @@ Replace 10+ subscriptions worth $500/month with 1 free tool.
 Note: Login system has been removed.
 This is now a direct-access app.
 Features: Browse products, Add to cart, Checkout
+# Sellora - AI E-Commerce App
+
+## a. What it does
+Sellora helps local people buy products online without login. Solves problem of quick shopping for Gilgit community.
+
+## b. Live URL
+https://sellora-e-commerce-d-92st.bolt.host
+
+## c. Features
+- Browse Products
+- Add to Cart 
+- AI Product Assistant
+- Checkout & Order Confirmation
+
+## d. AI Feature
+AI Assistant suggests products based on user query. 
+Prompt: "You are a shopping assistant. Recommend 3 products from available list based on user budget and need."
+
+## e. Tools Used
+Bolt.new, AI Model: [jo Bolt use karta hai], Hosting: Bolt.host
+
+## f. Screenshots
+[3 screenshots yahan laga dena]
+
+## g. How to Run
+1. Clone repo
+2. npm install 
+3. npm run dev
