@@ -78,3 +78,11 @@ Bolt.new, AI Model: [jo Bolt use karta hai], Hosting: Bolt.host
 1. Clone repo
 2. npm install 
 3. npm run dev
+## f. Screenshots
+[Dashboard](link1)
+[Shopping Cart & Checkout](link2) 
+[AI Features](link3)
+# Sellora - AI E-Commerce Command Center
+
+## a. What it does
+Sellora helps online sellers manage multiple stores like Amazon, Etsy, Shopify from one dashboard. Solves the problem of tracking orders, messages, and using AI to grow business.
