@@ -77,26 +77,33 @@ Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 3. npm run dev
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](1 page.png)
+### 1. Dashboard
+![Dashboard](1%20page.png)
 
-### AI Scanner
-![AI Scanner](screenshots/scanner.png)
+### 2. Stores
+![Stores](2%20page.png)
 
-### Chat
-![Chat](screenshots/chat.png)
+### 3. Cart
+![Cart](3%20page.png)
 
-### History
-![History](screenshots/history.png)
+### 4. Social
+![Social](4%20page.png)
 
-### Appointments
-![Appointments](screenshots/appointments.png)
+### 5. Smart Alerts
+![Smart Alerts](5%20page.png)
 
-### Profile
-![Profile](screenshots/profile.png)
+### 6. Content Generator
+![Content Generator](6%20page.png)
 
-### Download App
-![Download App](screenshots/download_app.png)
+### 7. Reply Generator
+![Reply Generator](7%20page.png)
+
+### 8. Price War Tracker
+![Price War Tracker](8%20page.png)
+
+### 9. Review Rescue
+![Review Rescue](9%20page.png)
+
 
 # Sellora - AI E-Commerce Command Center
 
