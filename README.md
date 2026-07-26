@@ -71,17 +71,33 @@ Prompt: "You are a shopping assistant. Recommend 3 products from available list 
 ## e. Tools Used
 Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 
-## f. Screenshots
-[3 screenshots yahan laga dena]
-
 ## g. How to Run
 1. Clone repo
 2. npm install 
 3. npm run dev
-## f. Screenshots
-[Dashboard](link1)
-[Shopping Cart & Checkout](link2) 
-[AI Features](link3)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Scanner
+![AI Scanner](screenshots/scanner.png)
+
+### Chat
+![Chat](screenshots/chat.png)
+
+### History
+![History](screenshots/history.png)
+
+### Appointments
+![Appointments](screenshots/appointments.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### Download App
+![Download App](screenshots/download_app.png)
+
 # Sellora - AI E-Commerce Command Center
 
 ## a. What it does
