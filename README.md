@@ -75,7 +75,7 @@ Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 1. Clone repo
 2. npm install 
 3. npm run dev
-## 📸 Screenshots
+##  Screenshots
 
 ### 1. Dashboard
 ![Dashboard](1%20page.png)
@@ -107,5 +107,5 @@ Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 
 # Sellora - AI E-Commerce Command Center
 
-## a. What it does
+## . What it does
 Sellora helps online sellers manage multiple stores like Amazon, Etsy, Shopify from one dashboard. Solves the problem of tracking orders, messages, and using AI to grow business.
