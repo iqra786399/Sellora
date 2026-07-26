@@ -2,17 +2,17 @@
 
 **Tagline:** Run Your Entire Online Business From One Dashboard.
 
-## 🚨 The Problem
+##  The Problem
 Online sellers and social media marketers manage stores on Amazon, Etsy, eBay, Shopify, TikTok Shop, Alibaba AND marketing on Instagram, Facebook, TikTok, Pinterest, WhatsApp. 
 They waste time switching between 10+ apps and miss orders and opportunities. 
 Tools like Veeqo cost $200-$500/month. Buffer only does social. No free tool combines everything.
 
-## ✅ The Solution: Sellora
+##  The Solution: Sellora
 A complete SaaS platform that unifies Stores + Social + AI in 1 dashboard.
 
 **Live Demo:** https://sellora-e-commerce-d-92st.bolt.host/
 
-## 🌟 19 Key Features
+##  19 Key Features
 1.  Landing Page with Hero + CTA
 2.  Auth - Email + Google Login + Demo: test@test.com / 123456
 3.  Unified Dashboard with animated stats
@@ -33,7 +33,7 @@ A complete SaaS platform that unifies Stores + Social + AI in 1 dashboard.
 18. Multi-Language Switcher - EN, UR, AR
 19. Pricing Page - Free $0, Pro $29, Business $99
 
-## 🎨 Tech Stack
+##  Tech Stack
 - React + Tailwind CSS
 - Recharts for Analytics
 - Lucide React for Icons
@@ -41,10 +41,10 @@ A complete SaaS platform that unifies Stores + Social + AI in 1 dashboard.
 - Dark Mode + Mobile Responsive
 - Deployed on Vercel via Bolt.new
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 This is an MVP with demo/mock data. Real version will connect to store APIs and Meta/TikTok APIs.
 
-## 🏆 Why Sellora?
+##  Why Sellora?
 Replace 10+ subscriptions worth $500/month with 1 free tool.
 ## Sellora E-Commerce App
 Note: Login system has been removed.
@@ -69,7 +69,7 @@ AI Assistant suggests products based on user query.
 Prompt: "You are a shopping assistant. Recommend 3 products from available list based on user budget and need."
 
 ## e. Tools Used
-Bolt.new, AI Model: [jo Bolt use karta hai], Hosting: Bolt.host
+Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 
 ## f. Screenshots
 [3 screenshots yahan laga dena]
