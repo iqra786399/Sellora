@@ -78,7 +78,7 @@ Bolt.new, AI Model: chat gpt , Hosting: Bolt.host
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/1 page.png)
 
 ### AI Scanner
 ![AI Scanner](screenshots/scanner.png)
